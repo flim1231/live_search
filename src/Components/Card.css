@@ -1,0 +1,26 @@
+.live_search {
+    font-size: 100px;
+  }
+  
+  .inp {
+    width: 400px;
+    height: 60px;
+    background-color: rgb(255, 227, 176);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    outline: none;
+    font-size: 30px;
+    padding-left: 30px;
+  }
+  
+  .li {
+    padding: 10px;
+    background-color: rgb(28, 230, 62);
+    margin: 10px;
+    width: 200px;
+    color:white;
+    border-radius: 20px;
+    text-align: center;
+  }
+  
